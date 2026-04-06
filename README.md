@@ -1,1 +1,30 @@
-# Development-of-Interactive-Cyber-Threat-Visualization-Dashboard
+Interactive Cyber Threat Visualization Dashboard This dashboard provides a centralized interface to analyze attack patterns, identify vulnerabilities, and visualize threat intelligence through interactive maps and data analytics.
+
+Live Demo: https://secure-view-pulse.vercel.app/
+
+Demo Video:  Uploading project demonstation .mp4…
+🚀 Features
+
+Real-time Threat Map: Interactive global visualization of active cyber attacks.
+
+Dynamic Analytics: Visual representation of threat levels, attack types, and geographic hotspots.
+
+Secure Monitoring: A robust monitoring system designed to provide actionable insights into network security.
+
+Responsive Design: Optimized for various devices using modern UI/UX principles.
+
+https://github.com/user-attachments/assets/82c241a1-1f5c-497b-99b0-d129294cff70
+
+
+
+🛠️ Tech Stack Frontend: React.js, Tailwind CSS, Framer Motion
+
+Backend: Node.js, Express
+
+Data Visualization: Recharts, React-Leaflet / Mapbox
+
+Deployment: Vercel (Frontend)
+
+📂 Project Structure Plaintext , frontend/ # React application and UI components backend/ # API services and data processing README.md # Project documentation
+
+🛡️ Security & Privacy This dashboard is designed for visualization and educational purposes. It uses simulated or aggregated threat data feeds to demonstrate how real-world SOC (Security Operations Center) dashboards function.
