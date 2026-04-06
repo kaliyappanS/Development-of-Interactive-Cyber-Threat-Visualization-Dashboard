@@ -5,6 +5,7 @@ This dashboard provides a centralized interface to analyze attack patterns, iden
 Live Demo: https://secure-view-pulse.vercel.app/
 
 Demo Video
+
 https://github.com/user-attachments/assets/82c241a1-1f5c-497b-99b0-d129294cff70
 
 # 🚀 Features
