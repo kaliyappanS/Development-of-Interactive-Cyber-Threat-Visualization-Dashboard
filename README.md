@@ -9,12 +9,18 @@ Demo Video
 https://github.com/user-attachments/assets/82c241a1-1f5c-497b-99b0-d129294cff70
 
 # 🚀 Features
+
 Real-time Threat Map: Interactive global visualization of active cyber attacks.
+
 Dynamic Analytics: Visual representation of threat levels, attack types, and geographic hotspots.
+
 Secure Monitoring: A robust monitoring system designed to provide actionable insights into network security.
+
 Responsive Design: Optimized for various devices using modern UI/UX principles.
 
-🛠️ Tech Stack Frontend: React.js, Tailwind CSS, Framer Motion
+# 🛠️ Tech Stack 
+
+Frontend: React.js, Tailwind CSS, Framer Motion
 
 Backend: Node.js, Express
 
@@ -22,6 +28,6 @@ Data Visualization: Recharts, React-Leaflet / Mapbox
 
 Deployment: Vercel (Frontend)
 
-📂 Project Structure Plaintext , frontend/ # React application and UI components backend/ # API services and data processing README.md # Project documentation
+📂 Project Structure Plaintext , frontend/ React application and UI components backend/ API services and data processing README.md  Project documentation
 
 🛡️ Security & Privacy This dashboard is designed for visualization and educational purposes. It uses simulated or aggregated threat data feeds to demonstrate how real-world SOC (Security Operations Center) dashboards function.
