@@ -1,4 +1,4 @@
-# Developement Of Interactive Cyber Threat Data Visulization Dashboard.
+# Developement Of Interactive Cyber Threat Visulization Dashboard.
 
 This dashboard provides a centralized interface to analyze attack patterns, identify vulnerabilities, and visualize threat intelligence through interactive maps and data analytics.
 
